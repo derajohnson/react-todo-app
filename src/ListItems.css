@@ -1,0 +1,25 @@
+.list {
+    margin-bottom: 30px;
+}
+
+button.check-icon  {
+        background: #00c851;
+        border: none;
+        outline: none;
+    font-size: 20px;
+    color: #fff;
+}
+
+button.trash-icon {
+    background-color: #ff4444;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button{
+    cursor: pointer;
+    margin-left: 20px
+}
